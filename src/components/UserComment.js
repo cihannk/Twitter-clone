@@ -25,7 +25,7 @@ function UserComment() {
                             <span className="text-primary-base ml-1">@nightblack05</span>
                         </div>
                         
-                        <span>Lorem lorem loremloremloremloremloremloremloremlorem</span>
+                        <span>Bu bir yorum</span>
 
                         <div className="flex flex-row justify-between">
                             <div className="flex items-center justify-center -ml-1 w-8 h-8 hover:bg-gray-extraLight transform transition-colors duration-200 text-gray-800 rounded-full  ">
